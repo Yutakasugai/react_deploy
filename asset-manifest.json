@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/react_deploy/static/js/main.48e08c92.js",
+    "static/js/787.e7f07446.chunk.js": "/react_deploy/static/js/787.e7f07446.chunk.js",
+    "static/media/pizza-3.jpg": "/react_deploy/static/media/pizza-3.92f50fb84035557326ac.jpg",
+    "static/media/product-1.jpg": "/react_deploy/static/media/product-1.8613f3847f51ab43d22d.jpg",
+    "static/media/product-3.jpg": "/react_deploy/static/media/product-3.2751b0df4878eea00f3a.jpg",
+    "static/media/product-2.jpg": "/react_deploy/static/media/product-2.8c2418c90f1ba595b49d.jpg",
+    "index.html": "/react_deploy/index.html",
+    "main.48e08c92.js.map": "/react_deploy/static/js/main.48e08c92.js.map",
+    "787.e7f07446.chunk.js.map": "/react_deploy/static/js/787.e7f07446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.48e08c92.js"
+  ]
+}
